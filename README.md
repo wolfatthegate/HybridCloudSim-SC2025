@@ -1,4 +1,4 @@
-# QCloudSim – Hybrid Quantum–HPC Cloud Simulation Framework
+# HybridCloudSim – Hybrid Quantum–HPC Cloud Simulation Framework
 
 QCloudSim is a Python-based simulation framework for modeling, executing, and analyzing hybrid quantum–HPC workloads.  
 It enables researchers to evaluate **scheduling strategies**, **resource allocation policies**, and **device utilization trends** in environments that combine noisy Quantum Processing Units (QPUs) with classical High-Performance Computing (HPC) resources such as CPUs and GPUs.
