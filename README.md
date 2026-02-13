@@ -39,7 +39,15 @@ Clone the repository:
 git clone https://github.com/yourusername/QCloudSim.git
 cd QCloudSim
 ```
-
+**Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+**Run Use‑Case scripts**
+```bash
+python3 main.py
+```
+or use jupyter notebook `main.ipynb`
 
 Below is a minimal example of running a hybrid simulation with two QPUs and two CPUs.
 
